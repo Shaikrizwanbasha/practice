@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1723441846,,"wq!"
+|2,0,1723444776,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,51 @@
 # Registers:
 
 # File marks:
-'0  3  0  ~/Muskaan/Daily
-|4,48,3,0,1723441846,"~/Muskaan/Daily"
-'1  5  0  ~/Mussu
-|4,49,5,0,1723441602,"~/Mussu"
+'0  2  22  ~/githubhtml/Maven
+|4,48,2,22,1723444776,"~/githubhtml/Maven"
+'1  3  0  ~/Muskaan/Daily
+|4,49,3,0,1723441846,"~/Muskaan/Daily"
+'2  5  0  ~/Mussu
+|4,50,5,0,1723441602,"~/Mussu"
 
 # Jumplist (newest first):
+-'  2  22  ~/githubhtml/Maven
+|4,39,2,22,1723444776,"~/githubhtml/Maven"
+-'  1  0  ~/githubhtml/Maven
+|4,39,1,0,1723444757,"~/githubhtml/Maven"
 -'  3  0  ~/Muskaan/Daily
 |4,39,3,0,1723441846,"~/Muskaan/Daily"
+-'  3  0  ~/Muskaan/Daily
+|4,39,3,0,1723441846,"~/Muskaan/Daily"
+-'  1  0  ~/Muskaan/Daily
+|4,39,1,0,1723441694,"~/Muskaan/Daily"
 -'  1  0  ~/Muskaan/Daily
 |4,39,1,0,1723441694,"~/Muskaan/Daily"
 -'  5  0  ~/Mussu
 |4,39,5,0,1723441602,"~/Mussu"
 -'  5  0  ~/Mussu
 |4,39,5,0,1723441602,"~/Mussu"
+-'  5  0  ~/Mussu
+|4,39,5,0,1723441602,"~/Mussu"
+-'  5  0  ~/Mussu
+|4,39,5,0,1723441602,"~/Mussu"
+-'  1  0  ~/Mussu
+|4,39,1,0,1723441556,"~/Mussu"
+-'  1  0  ~/Mussu
+|4,39,1,0,1723441556,"~/Mussu"
 -'  1  0  ~/Mussu
 |4,39,1,0,1723441556,"~/Mussu"
 -'  1  0  ~/Mussu
 |4,39,1,0,1723441556,"~/Mussu"
 
 # History of marks within files (newest to oldest):
+
+> ~/githubhtml/Maven
+	*	1723444774	0
+	"	2	22
+	^	2	23
+	.	2	22
+	+	2	22
 
 > ~/Muskaan/Daily
 	*	1723441842	0
